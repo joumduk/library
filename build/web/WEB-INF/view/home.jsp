@@ -87,7 +87,7 @@
                             <div class="stat-icon dib"><i class="ti-user text-success border-success"></i></div>
                             <div class="stat-content dib">
                                 <div class="stat-text">Today Rent</div>
-                                <div class="stat-digit">1,012</div>
+                                <div class="stat-digit">5</div>
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                             <div class="stat-icon dib"><i class="ti-money text-primary border-primary"></i></div>
                             <div class="stat-content dib">
                                 <div class="stat-text">Today rent book</div>
-                                <div class="stat-digit">961</div>
+                                <div class="stat-digit">5</div>
                             </div>
                         </div>
                     </div>
@@ -116,25 +116,13 @@
                             <div class="stat-icon dib"><i class="ti-layout-grid2 text-warning border-warning"></i></div>
                             <div class="stat-content dib">
                                 <div class="stat-text">Total blance book</div>
-                                <div class="stat-digit">770</div>
+                                <div class="stat-digit">100</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6">
-                <div class="card">
-                    <div class="card-body">
-                        <div class="stat-widget-one">
-                            <div class="stat-icon dib"><i class="ti-layout-grid2 text-warning border-warning"></i></div>
-                            <div class="stat-content dib">
-                                <div class="stat-text">Total blance book</div>
-                                <div class="stat-digit">770</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div> <!-- .content -->
     </div><!-- /#right-panel -->
 
