@@ -241,9 +241,10 @@ public class RentController extends HttpServlet {
             try{
                 session.removeAttribute("rent");
                 session.removeAttribute("rentItem");
-                response.sendRedirect("rent");    
+                response.sendRedirect("rent");
+                userPath="/complete";
             }catch(Exception e){
-             userPath="/complete";
+                userPath="/complete";
             }
             
         }

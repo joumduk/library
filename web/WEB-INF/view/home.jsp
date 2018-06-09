@@ -86,7 +86,7 @@
                         <div class="stat-widget-one">
                             <div class="stat-icon dib"><i class="ti-user text-success border-success"></i></div>
                             <div class="stat-content dib">
-                                <div class="stat-text">Today brower</div>
+                                <div class="stat-text">Today Rent</div>
                                 <div class="stat-digit">1,012</div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                         <div class="stat-widget-one">
                             <div class="stat-icon dib"><i class="ti-money text-primary border-primary"></i></div>
                             <div class="stat-content dib">
-                                <div class="stat-text">Today browed book</div>
+                                <div class="stat-text">Today rent book</div>
                                 <div class="stat-digit">961</div>
                             </div>
                         </div>
