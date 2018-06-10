@@ -11,7 +11,7 @@ create table `library`.admin
 	password VARCHAR(200) not null
 );
 
-insert admin (id, name, username, password) values (2,'admin','admin','admin');
+insert admin (id, name, username, password) values (1,'admin','admin','admin');
 
 
 create table `library`.book
@@ -57,3 +57,7 @@ create table `library`.student
 and
 
 after that import books.csv file to book table
+
+Login 
+	ID :admin
+	pass: admin
