@@ -56,7 +56,7 @@ create table `library`.student
 
 and
 
-after that import books.csv file to book table
+after that import books.csv file intobook table
 
 Login 
 	ID :admin
