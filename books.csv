@@ -1,0 +1,101 @@
+id,title,author,pages,image,quantity
+,Things Fall Apart,Chinua Achebe,209,things-fall-apart.jpg,1
+,Fairy tales,Hans Christian Andersen,784,fairy-tales.jpg,1
+,The Divine Comedy,Dante Alighieri,928,the-divine-comedy.jpg,1
+,The Epic Of Gilgamesh,Unknown,160,the-epic-of-gilgamesh.jpg,1
+,The Book Of Job,Unknown,176,the-book-of-job.jpg,1
+,One Thousand and One Nights,Unknown,288,one-thousand-and-one-nights.jpg,1
+,Njál's Saga,Unknown,384,njals-saga.jpg,1
+,Pride and Prejudice,Jane Austen,226,pride-and-prejudice.jpg,1
+,Le Père Goriot,Honoré de Balzac,443,le-pere-goriot.jpg,1
+,"Molloy, Malone Dies, The Unnamable, the trilogy",Samuel Beckett,256,molloy-malone-dies-the-unnamable.jpg,1
+,The Decameron,Giovanni Boccaccio,1024,the-decameron.jpg,1
+,Ficciones,Jorge Luis Borges,224,ficciones.jpg,1
+,Wuthering Heights,Emily Brontë,342,wuthering-heights.jpg,1
+,The Stranger,Albert Camus,185,l-etranger.jpg,1
+,Poems,Paul Celan,320,poems-paul-celan.jpg,1
+,Journey to the End of the Night,Louis-Ferdinand Céline,505,voyage-au-bout-de-la-nuit.jpg,1
+,Don Quijote De La Mancha,Miguel de Cervantes,1056,don-quijote-de-la-mancha.jpg,1
+,The Canterbury Tales,Geoffrey Chaucer,544,the-canterbury-tales.jpg,1
+,Stories,Anton Chekhov,194,stories-of-anton-chekhov.jpg,1
+,Nostromo,Joseph Conrad,320,nostromo.jpg,1
+,Great Expectations,Charles Dickens,194,great-expectations.jpg,1
+,Jacques the Fatalist,Denis Diderot,596,jacques-the-fatalist.jpg,1
+,Berlin Alexanderplatz,Alfred Döblin,600,berlin-alexanderplatz.jpg,1
+,Crime and Punishment,Fyodor Dostoevsky,551,crime-and-punishment.jpg,1
+,The Idiot,Fyodor Dostoevsky,656,the-idiot.jpg,1
+,The Possessed,Fyodor Dostoevsky,768,the-possessed.jpg,1
+,The Brothers Karamazov,Fyodor Dostoevsky,824,the-brothers-karamazov.jpg,1
+,Middlemarch,George Eliot,800,middlemarch.jpg,1
+,Invisible Man,Ralph Ellison,581,invisible-man.jpg,1
+,Medea,Euripides,104,medea.jpg,1
+,"Absalom, Absalom!",William Faulkner,313,absalom-absalom.jpg,1
+,The Sound and the Fury,William Faulkner,326,the-sound-and-the-fury.jpg,1
+,Madame Bovary,Gustave Flaubert,528,madame-bovary.jpg,1
+,Sentimental Education,Gustave Flaubert,606,l-education-sentimentale.jpg,1
+,Gypsy Ballads,Federico García Lorca,218,gypsy-ballads.jpg,1
+,One Hundred Years of Solitude,Gabriel García Márquez,417,one-hundred-years-of-solitude.jpg,1
+,Love in the Time of Cholera,Gabriel García Márquez,368,love-in-the-time-of-cholera.jpg,1
+,Faust,Johann Wolfgang von Goethe,158,faust.jpg,1
+,Dead Souls,Nikolai Gogol,432,dead-souls.jpg,1
+,The Tin Drum,Günter Grass,600,the-tin-drum.jpg,1
+,The Devil to Pay in the Backlands,João Guimarães Rosa,494,the-devil-to-pay-in-the-backlands.jpg,1
+,Hunger,Knut Hamsun,176,hunger.jpg,1
+,The Old Man and the Sea,Ernest Hemingway,128,the-old-man-and-the-sea.jpg,1
+,Iliad,Homer,608,the-iliad-of-homer.jpg,1
+,Odyssey,Homer,374,the-odyssey-of-homer.jpg,1
+,A Doll's House,Henrik Ibsen,68,a-Dolls-house.jpg,1
+,Ulysses,James Joyce,228,ulysses.jpg,1
+,Stories,Franz Kafka,488,stories-of-franz-kafka.jpg,1
+,The Trial,Franz Kafka,160,the-trial.jpg,1
+,The Castle,Franz Kafka,352,the-castle.jpg,1
+,The recognition of Shakuntala,Kālidāsa,147,the-recognition-of-shakuntala.jpg,1
+,The Sound of the Mountain,Yasunari Kawabata,288,the-sound-of-the-mountain.jpg,1
+,Zorba the Greek,Nikos Kazantzakis,368,zorba-the-greek.jpg,1
+,Sons and Lovers,D. H. Lawrence,432,sons-and-lovers.jpg,1
+,Independent People,Halldór Laxness,470,independent-people.jpg,1
+,Poems,Giacomo Leopardi,184,poems-giacomo-leopardi.jpg,1
+,The Golden Notebook,Doris Lessing,688,the-golden-notebook.jpg,1
+,Pippi Longstocking,Astrid Lindgren,160,pippi-longstocking.jpg,1
+,Diary of a Madman,Lu Xun,389,diary-of-a-madman.jpg,1
+,Children of Gebelawi,Naguib Mahfouz,355,children-of-gebelawi.jpg,1
+,Buddenbrooks,Thomas Mann,736,buddenbrooks.jpg,1
+,The Magic Mountain,Thomas Mann,720,the-magic-mountain.jpg,1
+,Moby Dick,Herman Melville,378,moby-dick.jpg,1
+,Essays,Michel de Montaigne,404,essais.jpg,1
+,History,Elsa Morante,600,history.jpg,1
+,Beloved,Toni Morrison,321,beloved.jpg,1
+,The Tale of Genji,Murasaki Shikibu,1360,the-tale-of-genji.jpg,1
+,The Man Without Qualities,Robert Musil,365,the-man-without-qualities.jpg,1
+,Lolita,Vladimir Nabokov,317,lolita.jpg,1
+,Nineteen Eighty-Four,George Orwell,272,nineteen-eighty-four.jpg,1
+,Metamorphoses,Ovid,576,the-metamorphoses-of-ovid.jpg,1
+,The Book of Disquiet,Fernando Pessoa,272,the-book-of-disquiet.jpg,1
+,Tales,Edgar Allan Poe,842,tales-and-poems-of-edgar-allan-poe.jpg,1
+,In Search of Lost Time,Marcel Proust,2408,a-la-recherche-du-temps-perdu.jpg,1
+,Gargantua and Pantagruel,François Rabelais,623,gargantua-and-pantagruel.jpg,1
+,Pedro Páramo,Juan Rulfo,124,pedro-paramo.jpg,1
+,The Masnavi,Rumi,438,the-masnavi.jpg,1
+,Midnight's Children,Salman Rushdie,536,midnights-children.jpg,1
+,Bostan,Saadi,298,bostan.jpg,1
+,Season of Migration to the North,Tayeb Salih,139,season-of-migration-to-the-north.jpg,1
+,Blindness,José Saramago,352,blindness.jpg,1
+,Hamlet,William Shakespeare,432,hamlet.jpg,1
+,King Lear,William Shakespeare,384,king-lear.jpg,1
+,Othello,William Shakespeare,314,othello.jpg,1
+,Oedipus the King,Sophocles,88,oedipus-the-king.jpg,1
+,The Red and the Black,Stendhal,576,le-rouge-et-le-noir.jpg,1
+,The Life And Opinions of Tristram Shandy,Laurence Sterne,640,the-life-and-opinions-of-tristram-shandy.jpg,1
+,Confessions of Zeno,Italo Svevo,412,confessions-of-zeno.jpg,1
+,Gulliver's Travels,Jonathan Swift,178,gullivers-travels.jpg,1
+,War and Peace,Leo Tolstoy,1296,war-and-peace.jpg,1
+,Anna Karenina,Leo Tolstoy,864,anna-karenina.jpg,1
+,The Death of Ivan Ilyich,Leo Tolstoy,92,the-death-of-ivan-ilyich.jpg,1
+,The Adventures of Huckleberry Finn,Mark Twain,224,the-adventures-of-huckleberry-finn.jpg,1
+,Ramayana,Valmiki,152,ramayana.jpg,1
+,The Aeneid,Virgil,442,the-aeneid.jpg,1
+,Mahabharata,Vyasa,276,the-mahab-harata.jpg,1
+,Leaves of Grass,Walt Whitman,152,leaves-of-grass.jpg,1
+,Mrs Dalloway,Virginia Woolf,216,mrs-dalloway.jpg,1
+,To the Lighthouse,Virginia Woolf,209,to-the-lighthouse.jpg,1
+,Memoirs of Hadrian,Marguerite Yourcenar,408,memoirs-of-hadrian.jpg,1
