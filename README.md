@@ -10,7 +10,9 @@ create table `library`.admin
 	username VARCHAR(100) not null,
 	password VARCHAR(200) not null
 );
-insert admin (id, name, username, password) values (2,'admin','admin','admin')
+
+insert admin (id, name, username, password) values (2,'admin','admin','admin');
+
 
 create table `library`.book
 (
@@ -20,7 +22,8 @@ create table `library`.book
 	pages INT not null,
 	image VARCHAR(44) not null,
 	quantity INT default 0 not null
-)
+);
+
 create table `library`.rent
 (
 	id INT not null primary key,
@@ -28,7 +31,8 @@ create table `library`.rent
 	status BIT(1) default b'0' not null,
 	expire_date DATE,
 	rent_date DATE
-)
+);
+
 
 create table `library`.rent_item
 (
@@ -38,7 +42,8 @@ create table `library`.rent_item
 	quantity INT not null,
 	book_name VARCHAR(100) not null,
 	status BIT(1) default b'0' not null
-)
+);
+
 create table `library`.student
 (
 	id INT not null primary key,
@@ -46,8 +51,9 @@ create table `library`.student
 	student_id VARCHAR(100) not null,
 	phone VARCHAR(100) not null,
 	email VARCHAR(100) not null
-)
+);
+
 
 and
 
-after thatn import books.csv file to book table
+after that import books.csv file to book table
